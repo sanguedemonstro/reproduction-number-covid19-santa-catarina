@@ -10,11 +10,12 @@ Esse código é totalmente baseado no trabalho da Loft: [Aqui](https://loft.scie
 [fonte](https://loft.science/)
 
 ## Motivação:
-Além do índice (o Rt número de reprodução eficaz) ser super interssante, acredito que um índice regionalizado, por estados, municípios e até bairros, poderá poiar a tomada de decisões do poder público sobre como conter o contágio e conduzir a retomada da economia.
+Além do índice (o Rt número de reprodução eficaz) ser super interssante, acredito que um índice regionalizado, por estados, municípios e até bairros, poderá apoiar a tomada de decisões do poder público sobre como conter o contágio e conduzir a retomada da atividade econômica de forma segura.
 
 ## Desejo:
-Gostaria muito de tornar este índice facilmente acessível à qualquer gestor, de qualquer esfera, bastando inputar os dados do seu município em um forma pré-determinado, em uma interface amigável do que o atual ipynb.
-Voluntários são bem vindos! Entre em contato.
+Gostaria muito de tornar este índice facilmente acessível à qualquer gestor, de qualquer esfera, bastando inputar os dados do seu município em um formato pré-determinado, em uma interface amigável.
+
+**Voluntários são bem vindos! Entre em contato.**
 
 ## Gráficos gerados para Santa Catarina com dados disponíveis em 28/04/2020:
 
