@@ -24,7 +24,7 @@ Gostaria de tornar este índice facilmente acessível à qualquer gestor, de qua
 * Melhorar a qualidade dos gráficos
 * Gerar uma visão Web para os gráficos
 
-**Voluntários são bem vindos! Entre em contato.**
+**Voluntários são bem vindos! [Entre em contato](https://www.linkedin.com/in/sanguedemonstro/).**
 
 ## Próximas versões:
 * Permitir a geração de gráficos Rt e de comparação de Rt, de forma simplificada, a partir de uma interface amigável.
