@@ -1,21 +1,40 @@
 # reproduction-number-covid19-santa-catarina
-Exercitando o Rt, ou número de reprodução eficaz, do COVID-19 no estado de Santa Catarina
 
-## Do que se trata este repositório:
-Esse código é totalmente baseado no trabalho da Loft: [Aqui](https://loft.science/) e [aqui](https://github.com/loft-br/realtime_r0_brazil).
-É uma tentativa de expor o Rt do COVID-19 do estado de Santa Catarina, por municípios.
+## Motivação
+Acredido que o **índice de contágio do COVID-19** regionalizado, por estados, municípios e até bairros, **em tempo real**, pode apoiar a tomada de decisões do poder público sobre como conter o contágio e como conduzir a retomada da atividade econômica de forma segura.
 
-## O que é o Rt:
-"O Rt, ou número de reprodução eficaz, é o número médio de contágios causados por cada pessoa infectada em um determinado ponto no tempo, levando em consideração mudanças no nosso comportamento (quarentena, uso de máscaras, home office, etc). Um Rt de 3–4 infectará virtualmente toda a população, enquanto um Rt de 1.5 pode ainda alcançar 60% da população. Somente se o Rt for menor do que 1, a epidemia irá diminuir de tamanho até ser eliminada."
-[fonte](https://loft.science/)
+Esse índice também é conhecido por **Rt** ou número de reprodução eficaz.
 
-## Motivação:
-Além do índice (o Rt número de reprodução eficaz) ser super interssante, acredito que um índice regionalizado, por estados, municípios e até bairros, poderá apoiar a tomada de decisões do poder público sobre como conter o contágio e conduzir a retomada da atividade econômica de forma segura.
+## O que é o Rt
 
-## Desejo:
-Gostaria muito de tornar este índice facilmente acessível à qualquer gestor, de qualquer esfera, bastando inputar os dados do seu município em um formato pré-determinado, em uma interface amigável.
+> O Rt, ou número de reprodução eficaz, é o número médio de contágios causados por cada pessoa infectada em um determinado ponto no tempo, levando em consideração mudanças no nosso comportamento (quarentena, uso de máscaras, home office, etc). Um Rt de 3–4 infectará virtualmente toda a população, enquanto um Rt de 1.5 pode ainda alcançar 60% da população. Somente se o Rt for menor do que 1, a epidemia irá diminuir de tamanho até ser eliminada. [Fonte](https://loft.science/).
+
+## Do que trata esse repositório
+
+Aqui estou exercitando o **índice de contágio do COVID-19 por municípios de Santa Catarina**.
+
+Gostaria de tornar este índice facilmente acessível à qualquer gestor, de qualquer esfera, bastando inputar os dados do seu município em um [formato pré-determinado](input-data-format.md), em uma interface amigável.
+
+**Disclaimer:** Trata-se de um trabalho experimental, não científico e ainda em fase de construção.
+
+## Próximos passos, para uma versão beta:
+* Plotar também o Rt do Brasil
+* Plotar também o Rt de Santa Catarina
+* Considerar todos os municípios de Santa Catarina (atualmente está gerando erro).
+* Melhorar a qualidade dos gráficos
+* Gerar uma visão Web para os gráficos
 
 **Voluntários são bem vindos! Entre em contato.**
+
+## Próximas versões:
+* Permitir a geração de gráficos Rt e de comparação de Rt, de forma simplificada, a partir de uma interface amigável.
+
+## Créditos
+
+Esse trabalho é inspirado [neste material da Loft](https://loft.science/).
+
+Que por sua vez é inspirado [neste material do Kevin Systrom](https://github.com/k-sys/covid-19/blob/master/Realtime%20R0.ipynb).
+
 
 ## Gráficos gerados para Santa Catarina com dados disponíveis em 28/04/2020:
 
