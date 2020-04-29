@@ -9,7 +9,7 @@ Mas... Para tratarmos de modelos estatísticos, é fundamental utilizarmos:
 * Dados atualizados diariamente
 
 
-Para [este projeto](.\readme.md), são necessários os seguintes dados:
+Para [este projeto](README.md), são necessários os seguintes dados:
 * `date` Data da medição, no formato AAAA-MM-DD
 * `location` O nome do bairro
 * `totalCases` Número total de casos, naquela data, naquele bairro
