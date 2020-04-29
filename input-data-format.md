@@ -22,7 +22,7 @@ Além disso é importante que estes dados estejam estruturados em formato csv. E
 E finalmente, é importante que estes dados estejam atualizados diariamente e acessíveis em uma url pública.
 
 ## Estou aqui para ajudar!
-Se precisar de qualquer apoio para extrair estes dados, por favor entre em contato.
+Se precisar de qualquer apoio para extrair estes dados, por favor [entre em contato](https://www.linkedin.com/in/sanguedemonstro/).
 
 ## Exemplo de dados históricos de 2 bairros em formato csv:
 
