@@ -1,3 +1,8 @@
+## Créditos
+# Esse trabalho é inspirado [neste material da Loft](https://loft.science/).
+# Que por sua vez é inspirado [neste material do Kevin Systrom](https://github.com/k-sys/covid-19/blob/master/Realtime%20R0.ipynb).
+
+
 # general imports
 import numpy as np
 import pandas as pd
