@@ -380,15 +380,16 @@ def plot_standings(mr, figsize=None, title='Most Recent $R_t$ by State'):
 def run_full_model(cases, sigma=OPTIMAL_SIGMA):
 
     # initializing result dict
-    result = {''}
+    result = pd.Series()
 
     # smoothing series
     new, smoothed = smooth_new_cases(cases)
 
-    # calculating posteriors
-    posteriors, log_likelihood = calculate_posteriors(smoothed, sigma=sigma)
+    if smoothed.empty == False:
+        # calculating posteriors
+        posteriors, log_likelihood = calculate_posteriors(smoothed, sigma=sigma)
 
-    # calculating HDI
-    result = highest_density_interval(posteriors, p=.9)
+        # calculating HDI
+        result = highest_density_interval(posteriors, p=.9)
 
     return result
