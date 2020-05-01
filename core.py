@@ -316,7 +316,7 @@ def plot_rt(result, ax, state_name):
     ax.set_xlim(pd.Timestamp('2020-03-01'), result.index.get_level_values('date')[-1]+pd.Timedelta(days=1)) 
 
 
-def plot_standings(mr, figsize=None, title='Most Recent $R_t$ by State'):
+def plot_standings(mr, figsize=None, title='Most Recent $R_t$ by location'):
     
     """
     Function to plot standings
