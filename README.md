@@ -36,7 +36,9 @@ Esse trabalho é inspirado [neste material da Loft](https://loft.science/).
 Que por sua vez é inspirado [neste material do Kevin Systrom](https://github.com/k-sys/covid-19/blob/master/Realtime%20R0.ipynb).
 
 
-## Gráficos gerados para Santa Catarina com dados disponíveis em 28/04/2020:
+## Gráficos gerados para Santa Catarina com dados disponíveis em 01/05/2020:
 
-![SC - 28/04/2020](https://github.com/sanguedemonstro/reproduction-number-covid19-santa-catarina/blob/master/images/rt-sc-2020-04-28.PNG)
-![Compare SC - 28/04/2020](https://github.com/sanguedemonstro/reproduction-number-covid19-santa-catarina/blob/master/images/compare-rt-sc-2020-04-28.PNG)
+veja também: [foto do dia 28/04/2020](picture-2020-04-28.md)
+
+![SC - 28/04/2020](images/rt-sc-2020-05-01.PNG)
+![Compare SC - 28/04/2020](images/compare-rt-sc-2020-05-01.PNG)
